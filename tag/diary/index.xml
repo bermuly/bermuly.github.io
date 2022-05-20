@@ -5,12 +5,28 @@
     <link>https://example.com/tag/diary/</link>
       <atom:link href="https://example.com/tag/diary/index.xml" rel="self" type="application/rss+xml" />
     <description>diary</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 15:30:43 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 15:10:05 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>diary</title>
       <link>https://example.com/tag/diary/</link>
     </image>
+    
+    <item>
+      <title>Last Week 2</title>
+      <link>https://example.com/post/last-week_2/</link>
+      <pubDate>Sat, 14 May 2022 15:10:05 +0300</pubDate>
+      <guid>https://example.com/post/last-week_2/</guid>
+      <description>&lt;p&gt;The past week has been quite stressful, but I&amp;rsquo;ve coped because I really like what I&amp;rsquo;m doing.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All laboratory work was completed on time&lt;/li&gt;
+&lt;li&gt;I didn&amp;rsquo;t go to the gym because of a busy schedule&lt;/li&gt;
+&lt;li&gt;Did you manage to take a walk with friends&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;I think I spent this week quite productively and I hope that next week everything will be the same.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Last Week</title>

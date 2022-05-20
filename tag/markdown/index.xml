@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown | Academic</title>
+    <link>https://example.com/tag/markdown/</link>
+      <atom:link href="https://example.com/tag/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>markdown</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 15:10:37 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>markdown</title>
+      <link>https://example.com/tag/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Sat, 14 May 2022 15:10:37 +0300</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;h2 id=&#34;what-is-markdown&#34;&gt;What is Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown is a text markup language for documents. It was invented in 2004 by blogger John Gruber and Internet activist Aaron Schwartz to quickly format articles. As a result, they have a simple language that is still actively used.&lt;/p&gt;
+&lt;p&gt;The point of the markdown is that you make the markup of your document with minimal effort, and already some other plugin or program turns your markup into a final document - for example, HTML. But it is possible not in HTML, but in PDF or something else. Markdown is like a language for other programs to form documents based on your text.&lt;/p&gt;
+&lt;p&gt;The only thing you may need is to adjust fonts, margins and colors in this plugin to make the result look beautiful. You set it up once, and then you quickly write a lot of materials that will turn into ready-made articles with good markup at the output.&lt;/p&gt;
+&lt;h2 id=&#34;rise-and-divergence&#34;&gt;Rise and divergence&lt;/h2&gt;
+&lt;p&gt;As Markdowns popularity grew rapidly, many Markdown implementations appeared, driven mostly by the need for additional features such as tables, footnotes, definition lists, and Markdown inside HTML blocks.&lt;/p&gt;
+&lt;p&gt;The behavior of some of these diverged from the reference implementation, as Markdown was only characterised by an informal specification and a Perl implementation for conversion to HTML.&lt;/p&gt;
+&lt;p&gt;At the same time, a number of ambiguities in the informal specification had attracted attention. These issues spurred the creation of tools such as Babel mark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake: &amp;ldquo;Different sites (and people) have different needs. No one syntax would make all happy.&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;why-is-this-necessary&#34;&gt;Why is this necessary?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;To add markup to places where real markup is not possible. For example, in a simple text file or in the same SMS, where it is impossible to highlight bold, create titles, highlight quotes, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For more convenient writing of texts for subsequent conversion to HTML or other formats.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;As you can see, Markdown, despite the fact that it is more than a decade old, is still a popular text markup language. Its simplicity and economy wins the hearts of more and more new users who find various non-trivial uses for it&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
