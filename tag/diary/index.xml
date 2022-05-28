@@ -5,12 +5,28 @@
     <link>https://example.com/tag/diary/</link>
       <atom:link href="https://example.com/tag/diary/index.xml" rel="self" type="application/rss+xml" />
     <description>diary</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 16:19:05 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 14:55:17 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>diary</title>
       <link>https://example.com/tag/diary/</link>
     </image>
+    
+    <item>
+      <title>Last week 4</title>
+      <link>https://example.com/post/last_week_4/</link>
+      <pubDate>Sat, 28 May 2022 14:55:17 +0300</pubDate>
+      <guid>https://example.com/post/last_week_4/</guid>
+      <description>&lt;p&gt;Last week turned out to be quite difficult.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Large and complex laboratory work&lt;/li&gt;
+&lt;li&gt;English test&lt;/li&gt;
+&lt;li&gt;Training in the gym&lt;/li&gt;
+&lt;li&gt;Bad weather&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But all the bad things will go away someday, so I won&amp;rsquo;t dwell on it and just continue to do as usual.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Last Week 3</title>

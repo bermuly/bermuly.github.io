@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming | Academic</title>
+    <link>https://example.com/tag/programming/</link>
+      <atom:link href="https://example.com/tag/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 14:55:41 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>programming</title>
+      <link>https://example.com/tag/programming/</link>
+    </image>
+    
+    <item>
+      <title>Scientific programming language</title>
+      <link>https://example.com/post/scienproglang/</link>
+      <pubDate>Sat, 28 May 2022 14:55:41 +0300</pubDate>
+      <guid>https://example.com/post/scienproglang/</guid>
+      <description>&lt;p&gt;In computer programming, a scientific programming language can refer to two degrees of the same concept.&lt;/p&gt;
+&lt;p&gt;In a broad sense, a scientific programming language is a programming language that is widely used in computational science and computational mathematics. In this sense, C/C++ and Python can be considered as scientific programming languages.&lt;/p&gt;
+&lt;p&gt;In a broader sense, a scientific programming language is a language that is designed and optimized to use mathematical formulas and matrices.  Such languages are characterized not only by the presence of libraries that perform mathematical or scientific functions, but also by the syntax of the language itself.]\ For example, neither C++ nor Python have built-in matrix types or functions for matrix arithmetic (addition, multiplication, etc.); instead, this function is available through standard libraries. Scientific programming languages in a stricter sense include ALGOL , APL , Fortran , J , Julia , Maple , MATLAB , and R .&lt;/p&gt;
+&lt;p&gt;Scientific programming languages should not be confused with scientific language in general, which loosely refers to the higher standards of accuracy, correctness and brevity expected from practitioners of the scientific method.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
